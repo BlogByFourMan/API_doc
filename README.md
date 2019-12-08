@@ -1,7 +1,7 @@
 ## 简单 web 服务与客户端开发实战
 ### 小组成员
 
-- 王俊焕 17308154 [【服务计算】简单 web 服务与客户端开发实战小结](https://editor.csdn.net/md/?articleId=103444451)
+- 王俊焕 17308154 [【服务计算】简单 web 服务与客户端开发实战小结](https://blog.csdn.net/hunk954/article/details/103444451)
 
 - 温鸿玮 17308164 [go语言学习-简单 web 服务与客户端开发实战](https://blog.csdn.net/sir_beginner/article/details/103439063)
 
