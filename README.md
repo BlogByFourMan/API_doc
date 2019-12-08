@@ -22,9 +22,9 @@ POST /user/register //注册
 
 - 截图
 
-![1575782734108](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1575782734108.png)
+![1575782734108](F:\软工大三上\服务计算\作业10\API_doc\img\1.png)
 
-![1575782781963](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1575782781963.png)
+![1575782781963](F:\软工大三上\服务计算\作业10\API_doc\img\2.png)
 
 ### 小组成员
 
