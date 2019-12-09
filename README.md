@@ -5,7 +5,7 @@
 
 - 温鸿玮 17308164 [go语言学习-简单 web 服务与客户端开发实战](https://blog.csdn.net/sir_beginner/article/details/103439063)
 
-- 颜屹豪 17308195 [博客]()
+- 颜屹豪 17308195 [web 服务与客户端开发实战总结](https://blog.csdn.net/qq_20549085/article/details/103454127)
 
 - 王鑫基 17309084 [简单 web 服务与客户端开发实战——Simple Blog](https://blog.csdn.net/HiXinJ/article/details/103451041)
 
